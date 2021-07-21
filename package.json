@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Part1.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
