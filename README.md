@@ -31,3 +31,7 @@ Please, Enter F/f => to move forward.
 Please, Enter B/b => to move backward.
 Please, Enter L/l => to turn left.
 Please, Enter R/r => to turn right.
+
+# How to Use
+Change "listOfCommands" list in the code with the list of commands you want.
+Change "listOfObstacles" list in the code with the list of obstacles you want to be avoided by mars rover.
